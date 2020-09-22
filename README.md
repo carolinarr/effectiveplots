@@ -1,7 +1,7 @@
-# How to Make Effective Plots.
+# *** How to Make Effective Plots ***
 Material for PICSciE's "How to Make Effective Plots" workshop.
 
-# PART I - Principles
+# PART I - Principles 
 
 ## Principles for Creating Effective Visualizations
 
@@ -18,13 +18,13 @@ Helpful chart chooser: <https://www.data-to-viz.com/#explore>
 
 1. Articulate the main idea your graphic should convey FIRST
 2. Run through checklist of best practices
-  * Avoid Common Pitfalls of Misleading Graphs
+  * Avoid Common Pitfalls of Misleading Graphs  
       + 
-  * Go for Simplicity
+  * Go for Simplicity  
       + 
   * Look at Text  
       + 
-  * Look at Color
+  * Look at Color  
       + 
 3. Test your graphic on others – with no hints
 
